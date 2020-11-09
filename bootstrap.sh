@@ -18,4 +18,4 @@ git clone --recursive git://github.com/madand/tmuxrc.git $HOME/.tmux \
 
 ln -s $HOME/.tmux/tmux.conf $HOME/.tmux.conf
 
-echo "Install successfully."
+echo "Installed successfully."
